@@ -1,0 +1,23 @@
+[project]
+name = "ds-intern-assignment-siddhant-nijhawan"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "catboost>=1.2.8",
+    "joblib>=1.5.0",
+    "lightgbm>=4.6.0",
+    "lime>=0.2.0.1",
+    "matplotlib>=3.10.1",
+    "missingno>=0.5.2",
+    "numpy>=2.2.5",
+    "pandas>=2.2.3",
+    "plotly>=6.0.1",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+    "shap>=0.47.2",
+    "statsmodels>=0.14.4",
+    "torch>=2.7.0",
+    "xgboost>=3.0.0",
+]
